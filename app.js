@@ -16,7 +16,7 @@ function loadEventListeners() {
 // Add Task
 function addTask(e) {
   if(taskInput.value === '' ) {
-    alert('Add a task');
+    alert('Add a habibi task');
   }
   else{
   const li = document.createElement('li');
